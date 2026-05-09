@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sohail-19/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Math
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/Sohail-19/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
+## Number Theory
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/Sohail-19/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->

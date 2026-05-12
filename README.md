@@ -20,9 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Sohail-19/LeetCode/tree/master/0069-sqrtx) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Sohail-19/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Number Theory
 |  |
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/Sohail-19/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Sohail-19/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

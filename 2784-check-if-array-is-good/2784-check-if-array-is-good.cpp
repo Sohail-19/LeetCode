@@ -2,17 +2,14 @@ class Solution {
 public:
     bool isGood(vector<int>& nums) {
         int n = nums.size();
-        vector<int> freq(n + 1, 0);
+        sort(nums.begin(), nums.end());
 
-        for(int x : nums){
-            if(x >= n || x < 1) return false;
-            freq[x]++;
+        if(nums[n - 1] != n - 1) return false;
+
+        for(int i = 0; i < n - 1; i++){
+            if(nums[i] != i + 1) return false;
         }
 
-        for(int i = 1; i < n - 1; i++){
-            if(freq[i] != 1) return false;
-        }
-
-        return freq[n - 1] == 2;
+        return nums[n - 1] == nums[n - 2];
     }
 };

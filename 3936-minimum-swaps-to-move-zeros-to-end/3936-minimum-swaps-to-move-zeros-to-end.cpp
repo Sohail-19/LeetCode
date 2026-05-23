@@ -1,17 +1,14 @@
 class Solution {
 public:
     int minimumSwaps(vector<int>& nums) {
-        int n = nums.size();
-        int zeros = 0;
-        for(int x : nums){
-            if(x == 0) zeros++;
-        }
+        int zeros = count(nums.begin(), nums.end(), 0);
+
         int ans = 0;
-        for(int i = n - zeros; i < n; i++){
-            if(nums[i] != 0){
-                ans++;
-            }
+
+        for(int i = nums.size() - zeros; i < nums.size(); i++){
+            ans += (nums[i] != 0);
         }
+
         return ans;
     }
 };

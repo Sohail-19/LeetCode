@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sohail-19/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sohail-19/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sohail-19/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2126-destroying-asteroids](https://github.com/Sohail-19/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2540-minimum-common-value](https://github.com/Sohail-19/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sohail-19/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sohail-19/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sohail-19/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2126-destroying-asteroids](https://github.com/Sohail-19/LeetCode/tree/master/2126-destroying-asteroids) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2126-destroying-asteroids](https://github.com/Sohail-19/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/Sohail-19/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
 |  |

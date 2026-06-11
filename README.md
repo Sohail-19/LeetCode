@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Sohail-19/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/Sohail-19/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sohail-19/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Sohail-19/LeetCode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sohail-19/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sohail-19/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sohail-19/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Sohail-19/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sohail-19/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Sohail-19/LeetCode/tree/master/0139-word-break) |
 ## Greedy
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Sohail-19/LeetCode/tree/master/0139-word-break) |
 | [0349-intersection-of-two-arrays](https://github.com/Sohail-19/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Sohail-19/LeetCode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sohail-19/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -93,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sohail-19/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0139-word-break](https://github.com/Sohail-19/LeetCode/tree/master/0139-word-break) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sohail-19/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sohail-19/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Sohail-19/LeetCode/tree/master/0139-word-break) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sohail-19/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
 |  |
@@ -111,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Sohail-19/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Sohail-19/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

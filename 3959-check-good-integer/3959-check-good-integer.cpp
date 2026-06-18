@@ -5,12 +5,10 @@ public:
         int squareSum = 0;
         while(n>0){
             int digit = n%10;
-            digitSum = digitSum + digit;
-            squareSum = squareSum + (digit*digit);
+            digitSum += digit;
+            squareSum += (digit*digit);
             n = n/10;
         }
-        int difference = squareSum - digitSum;
-        if(difference >= 50) return true;
-        else return false;
+        return squareSum - digitSum >= 50;
     }
 };

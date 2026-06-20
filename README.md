@@ -134,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Sohail-19/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sohail-19/LeetCode/tree/master/0090-subsets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Sohail-19/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->

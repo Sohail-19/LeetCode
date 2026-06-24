@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sohail-19/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sohail-19/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sohail-19/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1833-maximum-ice-cream-bars](https://github.com/Sohail-19/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Sohail-19/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Sohail-19/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sohail-19/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sohail-19/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/Sohail-19/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Sohail-19/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sohail-19/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sohail-19/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sohail-19/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1833-maximum-ice-cream-bars](https://github.com/Sohail-19/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Sohail-19/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sohail-19/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/Sohail-19/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sohail-19/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Sohail-19/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->

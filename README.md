@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Sohail-19/LeetCode/tree/master/0139-word-break) |
 | [0349-intersection-of-two-arrays](https://github.com/Sohail-19/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1189-maximum-number-of-balloons](https://github.com/Sohail-19/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2540-minimum-common-value](https://github.com/Sohail-19/LeetCode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sohail-19/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Sohail-19/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sohail-19/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0068-text-justification](https://github.com/Sohail-19/LeetCode/tree/master/0068-text-justification) |
 | [0139-word-break](https://github.com/Sohail-19/LeetCode/tree/master/0139-word-break) |
+| [1189-maximum-number-of-balloons](https://github.com/Sohail-19/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Sohail-19/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sohail-19/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sohail-19/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Sohail-19/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sohail-19/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sohail-19/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->

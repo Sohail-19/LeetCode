@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Sohail-19/LeetCode/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Sohail-19/LeetCode/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/Sohail-19/LeetCode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Sohail-19/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Sohail-19/LeetCode/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Sohail-19/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sohail-19/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sohail-19/LeetCode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Sohail-19/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Sohail-19/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sohail-19/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Sohail-19/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sohail-19/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Sohail-19/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Sohail-19/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Sohail-19/LeetCode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sohail-19/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |

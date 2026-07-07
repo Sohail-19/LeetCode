@@ -9,7 +9,7 @@ public:
                 return a[0] < b[0];
             });
         int ans = 0;
-        int maxEnd = 0;
+        int maxEnd = -1;
         for(auto interval : intervals){
             if(interval[1] > maxEnd){
                 ans++;

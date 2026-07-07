@@ -1,18 +1,21 @@
 class Solution {
 public:
     int removeCoveredIntervals(vector<vector<int>>& intervals) {
-        int n = intervals.size();
-        int covered = 0;
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < n; j++){
-                if(i != j &&
-                   intervals[j][0] <= intervals[i][0] &&
-                   intervals[i][1] <= intervals[j][1]){
-                    covered++;
-                    break;
-                }
+        sort(intervals.begin(), intervals.end(),
+            [](vector<int>& a, vector<int>& b){
+                if(a[0] == b[0])
+                    return a[1] > b[1];
+
+                return a[0] < b[0];
+            });
+        int ans = 0;
+        int maxEnd = 0;
+        for(auto interval : intervals){
+            if(interval[1] > maxEnd){
+                ans++;
+                maxEnd = interval[1];
             }
         }
-        return n - covered;
+        return ans;
     }
 };

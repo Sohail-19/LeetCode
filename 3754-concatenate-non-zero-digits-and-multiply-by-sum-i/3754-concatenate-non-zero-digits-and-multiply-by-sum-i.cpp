@@ -5,9 +5,8 @@ public:
         long long x = 0;
         for(char c : to_string(n)){
             if(c != '0'){
-                int digit = c - '0';
                 x = x * 10 + (c- '0');
-                sum += digit;
+                sum += c - '0';
             }
         }
         return x * sum;

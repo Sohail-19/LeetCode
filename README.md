@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Sohail-19/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sohail-19/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sohail-19/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sohail-19/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1995-count-special-quadruplets](https://github.com/Sohail-19/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [2126-destroying-asteroids](https://github.com/Sohail-19/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Sohail-19/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sohail-19/LeetCode/tree/master/0069-sqrtx) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sohail-19/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Sohail-19/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sohail-19/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sohail-19/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sohail-19/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Sohail-19/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sohail-19/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sohail-19/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sohail-19/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Sohail-19/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Sohail-19/LeetCode/tree/master/0704-binary-search) |
+| [1260-shift-2d-grid](https://github.com/Sohail-19/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sohail-19/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1732-find-the-highest-altitude](https://github.com/Sohail-19/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sohail-19/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Sohail-19/LeetCode/tree/master/0068-text-justification) |
+| [1260-shift-2d-grid](https://github.com/Sohail-19/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Sohail-19/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sohail-19/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sohail-19/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sohail-19/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Sohail-19/LeetCode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->

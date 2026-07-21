@@ -11,7 +11,6 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        if(head == NULL || head->next == NULL) return head;
         ListNode* temp = head;
         int cnt = 0;
         while(temp != NULL){

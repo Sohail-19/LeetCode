@@ -20,7 +20,7 @@ public:
             cnt++;
             temp = temp->next;
         }
-        if (cnt == n) {
+        if (cnt == n) {           //when n is head
             ListNode* newHead = head->next;
             delete head; 
             return newHead;

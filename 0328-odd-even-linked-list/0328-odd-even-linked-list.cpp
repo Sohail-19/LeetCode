@@ -8,28 +8,30 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-        ListNode* oddHead = new ListNode(-1), *oddTail = oddHead;
-        ListNode* evenHead = new ListNode(-1), *evenTail = evenHead;
-        ListNode* curr = head;
-        int pos = 1;
-        while (curr) {
-            ListNode* temp = curr;
-            curr = curr->next;
-            temp->next = nullptr;
-            if (pos & 1) {
-                oddTail->next = temp;
-                oddTail = temp;
-            } else {
-                evenTail->next = temp;
-                evenTail = temp;
-            }
-            pos++;
+        if(head == NULL || head->next == NULL) return head;
+        vector<int> arr;
+        ListNode* temp = head;
+        while(temp && temp->next){
+            arr.push_back(temp->val);
+            temp = temp->next->next;
         }
-        oddTail->next = evenHead->next;
-        return oddHead->next;
+        if(temp) arr.push_back(temp->val);
+        temp = head->next;
+        while(temp && temp->next){
+            arr.push_back(temp->val);
+            temp = temp->next->next;
+        }
+        if(temp) arr.push_back(temp->val);
+        temp = head;
+        int i = 0;
+        while(temp){
+            temp->val = arr[i];
+            i++;
+            temp = temp->next;
+        }
+        return head;
     }
 };

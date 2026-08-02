@@ -19,10 +19,8 @@ public:
         }
         sort(arr.begin(),arr.end());
         temp = head;
-        int i = 0;
-        while(temp){
+        for(int i = 0; i < arr.size(); i++){
             temp->val = arr[i];
-            i++;
             temp = temp->next;
         }
         return head;

@@ -27,7 +27,7 @@ public:
         else{
             while(diff-- != 0) headA = headA->next;
         }
-        while(headA && headB){
+        while(headA){
             if(headA == headB) return headA;
             headA = headA->next;
             headB = headB->next;

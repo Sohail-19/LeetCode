@@ -10,30 +10,25 @@
  */
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2){
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        struct Compare {
+            bool operator()(ListNode* a, ListNode* b) {
+                return a->val > b->val;
+            }
+        };
+        priority_queue<ListNode*, vector<ListNode*>, Compare> pq;
+        for(auto list: lists){
+            if(list) pq.push(list);
+        }
         ListNode* dummy = new ListNode(-1);
         ListNode* temp = dummy;
-        while(list1 && list2){
-            if(list1->val <= list2->val){
-                temp->next = list1;
-                list1 = list1->next;
-            }
-            else{
-                temp->next = list2;
-                list2 = list2->next;
-            }
+        while(!pq.empty()){
+            ListNode* smallest = pq.top();
+            pq.pop();
+            temp->next = smallest;
             temp = temp->next;
+            if(smallest->next) pq.push(smallest->next);
         }
-        if(list1) temp->next = list1;
-        else temp->next = list2;
         return dummy->next;
-    }
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if(lists.empty()) return NULL;
-        ListNode* head = lists[0];
-        for(int i =1; i<lists.size(); i++){
-            head = mergeTwoLists(head , lists[i]);
-        }
-        return head;
     }
 };

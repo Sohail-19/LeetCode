@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Sohail-19/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sohail-19/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sohail-19/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Sohail-19/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sohail-19/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sohail-19/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/Sohail-19/LeetCode/tree/master/3731-find-missing-elements) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Sohail-19/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sohail-19/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sohail-19/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Sohail-19/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Sohail-19/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sohail-19/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting

@@ -7,7 +7,7 @@ public:
         while(r < n){
             freq[s[r]]++;
             maxFreq = max(maxFreq, freq[s[r]]);
-            while(((r-l+1) - maxFreq) > k){
+            if(((r-l+1) - maxFreq) > k){
                 freq[s[l]]--;
                 l++;
             }

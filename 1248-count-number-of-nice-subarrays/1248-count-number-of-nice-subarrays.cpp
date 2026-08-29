@@ -1,17 +1,21 @@
 class Solution {
 public:
-    int numberOfSubarrays(vector<int>& nums, int k) {
-        unordered_map<int, int> freq;
-        freq[0] = 1;
-        int oddCount = 0;
-        int result = 0;
-        for (int num : nums) {
-            if (num % 2 == 1) oddCount++;
-            if (freq.count(oddCount - k)) {
-                result += freq[oddCount - k];
+    int countAtMost(vector<int>& nums, int k) {
+        if(k < 0) return 0;
+        int n = nums.size();
+        int l = 0, r = 0, oddCount = 0, count = 0;
+        while(r < n){
+            if(nums[r] % 2 == 1) oddCount++;
+            while(oddCount > k){
+                if(nums[l] % 2 == 1) oddCount--;
+                l++;
             }
-            freq[oddCount]++;
+            count += r-l+1;
+            r++;
         }
-        return result;
+        return count;
+    }
+    int numberOfSubarrays(vector<int>& nums, int k) {
+        return countAtMost(nums, k) - countAtMost(nums, k-1);
     }
 };

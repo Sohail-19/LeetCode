@@ -1,8 +1,5 @@
 class Solution {
 public:
-    int subarraysWithKDistinct(vector<int>& nums, int k) {
-        return atMostK(nums, k) - atMostK(nums, k-1);
-    }
     int atMostK(vector<int>& nums, int k){
         int n = nums.size();
         int l = 0, r = 0, count = 0;
@@ -18,5 +15,8 @@ public:
             r++;
         }
         return count;
+    }
+    int subarraysWithKDistinct(vector<int>& nums, int k) {
+        return atMostK(nums, k) - atMostK(nums, k-1);
     }
 };

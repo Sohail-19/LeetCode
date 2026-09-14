@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sohail-19/LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Sohail-19/LeetCode/tree/master/0069-sqrtx) |
+| [0836-rectangle-overlap](https://github.com/Sohail-19/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sohail-19/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sohail-19/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Sohail-19/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
@@ -355,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Sohail-19/LeetCode/tree/master/1472-design-browser-history) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Sohail-19/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

@@ -1,17 +1,15 @@
 class Solution {
 public:
     vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
-        int n = nums1.size();
-        int m = nums2.size();
+        unordered_map<int, int> freq;
         vector<int> ans;
-        vector<int> used(m, 0);
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (nums1[i] == nums2[j] && used[j] == 0) {
-                    ans.push_back(nums1[i]);
-                    used[j] = 1;
-                    break;
-                }
+        for(int x : nums1){
+            freq[x]++;
+        }
+        for(int x : nums2){
+            if(freq[x] > 0){
+                ans.push_back(x);
+                freq[x]--;
             }
         }
         return ans;

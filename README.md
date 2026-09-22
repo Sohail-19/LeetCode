@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Sohail-19/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sohail-19/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sohail-19/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sohail-19/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sohail-19/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/Sohail-19/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sohail-19/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sohail-19/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sohail-19/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |

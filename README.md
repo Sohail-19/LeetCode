@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sohail-19/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/Sohail-19/LeetCode/tree/master/1407-top-travellers) |
 | [1527-patients-with-a-condition](https://github.com/Sohail-19/LeetCode/tree/master/1527-patients-with-a-condition) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sohail-19/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/Sohail-19/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Sohail-19/LeetCode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Sohail-19/LeetCode/tree/master/1693-daily-leads-and-partners) |

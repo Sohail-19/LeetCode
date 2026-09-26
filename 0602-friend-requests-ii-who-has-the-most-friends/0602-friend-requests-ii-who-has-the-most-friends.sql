@@ -5,7 +5,7 @@ FROM(
     UNION ALL
     SELECT accepter_id AS id
     FROM RequestAccepted
-) AS id
+) AS friends
 GROUP BY id
 ORDER BY num DESC
 LIMIT 1;

@@ -1,3 +1,4 @@
+#FULL EXCLUSIVE JOIN
 SELECT e.employee_id
 FROM Employees e
 LEFT JOIN Salaries s
@@ -12,4 +13,4 @@ RIGHT JOIN Salaries s
 ON e.employee_id = s.employee_id
 WHERE e.employee_id IS NULL
 
-ORDER BY employee_id;
+ORDER BY employee_id; 

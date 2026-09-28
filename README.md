@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Sohail-19/LeetCode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Sohail-19/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/Sohail-19/LeetCode/tree/master/1068-product-sales-analysis-i) |
+| [1070-product-sales-analysis-iii](https://github.com/Sohail-19/LeetCode/tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/Sohail-19/LeetCode/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/Sohail-19/LeetCode/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/Sohail-19/LeetCode/tree/master/1341-movie-rating) |

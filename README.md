@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sohail-19/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Sohail-19/LeetCode/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/Sohail-19/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sohail-19/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sohail-19/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sohail-19/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sohail-19/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Sohail-19/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/Sohail-19/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sohail-19/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0068-text-justification](https://github.com/Sohail-19/LeetCode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Sohail-19/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sohail-19/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Sohail-19/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sohail-19/LeetCode/tree/master/0090-subsets-ii) |
 ## Linked List
@@ -418,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1789-primary-department-for-each-employee](https://github.com/Sohail-19/LeetCode/tree/master/1789-primary-department-for-each-employee) |
 | [1965-employees-with-missing-information](https://github.com/Sohail-19/LeetCode/tree/master/1965-employees-with-missing-information) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Sohail-19/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sohail-19/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

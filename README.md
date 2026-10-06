@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Sohail-19/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Sohail-19/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sohail-19/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3941-password-strength](https://github.com/Sohail-19/LeetCode/tree/master/3941-password-strength) |
 ## Sorting
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sohail-19/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sohail-19/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sohail-19/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3941-password-strength](https://github.com/Sohail-19/LeetCode/tree/master/3941-password-strength) |
 ## Trie
 |  |
 | ------- |

@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Sohail-19/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Sohail-19/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sohail-19/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Sohail-19/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sohail-19/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1995-count-special-quadruplets](https://github.com/Sohail-19/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [2540-minimum-common-value](https://github.com/Sohail-19/LeetCode/tree/master/2540-minimum-common-value) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Sohail-19/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Sohail-19/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Sohail-19/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Sohail-19/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sohail-19/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sohail-19/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sohail-19/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Sohail-19/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sohail-19/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Sohail-19/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Sohail-19/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sohail-19/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sohail-19/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sohail-19/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |

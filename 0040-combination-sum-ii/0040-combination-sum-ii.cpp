@@ -7,7 +7,7 @@ public:
             return;
         }
         for(int i=ind; i<n; i++){
-            if(i>ind && arr[i] == arr[i-1]) continue;
+            if(i != ind && arr[i] == arr[i-1]) continue;
             if(arr[i] > target) break;
             ds.push_back(arr[i]);
             solve(i+1, arr, ds, n, target-arr[i]);

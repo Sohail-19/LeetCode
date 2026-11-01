@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Sohail-19/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sohail-19/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sohail-19/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sohail-19/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0645-set-mismatch](https://github.com/Sohail-19/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Sohail-19/LeetCode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/Sohail-19/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sohail-19/LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Sohail-19/LeetCode/tree/master/0069-sqrtx) |
 | [0371-sum-of-two-integers](https://github.com/Sohail-19/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sohail-19/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/Sohail-19/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Sohail-19/LeetCode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Sohail-19/LeetCode/tree/master/0836-rectangle-overlap) |

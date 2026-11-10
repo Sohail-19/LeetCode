@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Sohail-19/LeetCode/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Sohail-19/LeetCode/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/Sohail-19/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Sohail-19/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Sohail-19/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Sohail-19/LeetCode/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Sohail-19/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sohail-19/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0068-text-justification](https://github.com/Sohail-19/LeetCode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Sohail-19/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Sohail-19/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Sohail-19/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Sohail-19/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Sohail-19/LeetCode/tree/master/0139-word-break) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Sohail-19/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sohail-19/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sohail-19/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Sohail-19/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sohail-19/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sohail-19/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Sohail-19/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sohail-19/LeetCode/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/Sohail-19/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Recursion
 |  |
@@ -494,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sohail-19/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Sohail-19/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Sohail-19/LeetCode/tree/master/0068-text-justification) |
 | [1260-shift-2d-grid](https://github.com/Sohail-19/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Sohail-19/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Sohail-19/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sohail-19/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sohail-19/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sohail-19/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sohail-19/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sohail-19/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Sohail-19/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Sohail-19/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/Sohail-19/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sohail-19/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sohail-19/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
